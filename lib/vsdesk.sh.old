@@ -1,0 +1,72 @@
+#!/usr/bin/env bash
+apt-get install -y python-software-properties
+apt-get install -y software-properties-common
+echo "ВЫПОЛНЕНО УСПЕШНО!"
+add-apt-repository -y ppa:ondrej/php
+echo "ВЫПОЛНЕНО УСПЕШНО!"
+apt-get update
+echo "ВЫПОЛНЕНО УСПЕШНО!"
+apt-get -y upgrade
+echo "ВЫПОЛНЕНО УСПЕШНО!"
+apt-get install -y git
+echo "ВЫПОЛНЕНО УСПЕШНО!"
+apt-get install -y mc
+echo "ВЫПОЛНЕНО УСПЕШНО!"
+apt-get install -y zip
+echo "ВЫПОЛНЕНО УСПЕШНО!"
+apt-get install -y php5.6
+echo "ВЫПОЛНЕНО УСПЕШНО!"
+apt-get install -y php5.6-common
+echo "ВЫПОЛНЕНО УСПЕШНО!"
+apt-get install -y php5.6-curl
+echo "ВЫПОЛНЕНО УСПЕШНО!"
+apt-get install -y php5.6-imap
+echo "ВЫПОЛНЕНО УСПЕШНО!"
+apt-get install -y php5.6-ldap
+echo "ВЫПОЛНЕНО УСПЕШНО!"
+apt-get install -y php5.6-gd
+echo "ВЫПОЛНЕНО УСПЕШНО!"
+apt-get install -y php5.6-imagick
+echo "ВЫПОЛНЕНО УСПЕШНО!"
+apt-get install -y php5.6-mcrypt
+echo "ВЫПОЛНЕНО УСПЕШНО!"
+apt-get install -y php5.6-mbstring
+echo "ВЫПОЛНЕНО УСПЕШНО!"
+apt-get install -y php5.6-mysql
+echo "ВЫПОЛНЕНО УСПЕШНО!"
+apt-get install -y php5.6-mysqli
+echo "ВЫПОЛНЕНО УСПЕШНО!"
+apt-get install -y php5.6-zip
+echo "ВЫПОЛНЕНО УСПЕШНО!"
+sudo apt-get install -y apache2
+echo "ВЫПОЛНЕНО УСПЕШНО!"
+sudo apt-get install -y libapache2-mod-php5.6
+echo "ВЫПОЛНЕНО УСПЕШНО!"
+sudo apt-get install -y mysql-server
+echo "ВЫПОЛНЕНО УСПЕШНО!"
+sudo apt-get install -y mysql-client
+echo "ВЫПОЛНЕНО УСПЕШНО!"
+sudo a2enmod rewrite
+echo "ВЫПОЛНЕНО УСПЕШНО!"
+sudo service apache2 restart
+echo "ВЫПОЛНЕНО УСПЕШНО!"
+cp -f /var/www/vsdesk/lib/000-default.conf /etc/apache2/sites-available/000-default.conf
+echo "ВЫПОЛНЕНО УСПЕШНО!"
+cp -f /var/www/vsdesk/lib/ioncube_loader_lin_5.6.so /usr/lib/php/ioncube_loader_lin_5.6.so
+echo "ВЫПОЛНЕНО УСПЕШНО!"
+cp -f /var/www/vsdesk/lib/mysqld.cnf /etc/mysql/mysql.conf.d/mysqld.cnf
+echo "ВЫПОЛНЕНО УСПЕШНО!"
+cp -f /var/www/vsdesk/lib/php.ini /etc/php/5.6/apache2/php.ini
+cp -f /var/www/vsdesk/lib/php.ini /etc/php/5.6/cli/php.ini
+cp -f /var/www/vsdesk/lib/www-data /var/spool/cron/crontabs/www-data
+chown www-data:www-data -R /var/www/
+chown www-data:www-data /var/spool/cron/crontabs/www-data
+echo "ВЫПОЛНЕНО УСПЕШНО!"
+sudo service apache2 restart
+sudo service mysql restart
+echo "ВЫПОЛНЕНО УСПЕШНО!"
+echo "Введите пароль ROOT от MySQL, которого указывали при установке MySQL"
+sudo mysqladmin -u root -p create vsdesk
+/usr/bin/php /var/www/vsdesk/protected/cron.php init
+echo "ВЫПОЛНЕНО УСПЕШНО!"
+echo "СКРИПТ УСПЕШНО УСТАНОВЛЕН!"
