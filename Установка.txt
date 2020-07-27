@@ -1,4 +1,0 @@
-1.Залить БД
-2.Перейти в /application/config/database.php и подключить бд.
-3.Готов админ данные лог: mrgreezly@bk.ru пас: adminadmin22
-Удачных продаж.
