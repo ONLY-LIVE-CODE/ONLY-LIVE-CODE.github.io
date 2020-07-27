@@ -1,71 +1,271 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+$host ='fullhack.ru';
+if ($host != $_SERVER['HTTP_HOST']||'www.'.$host != $_SERVER['HTTP_HOST'])   
+	
+
+if ($host == 'no')
+{ 
+echo <<<EOF
+<html lang="ru"><!--<![endif]--><head>
+	<meta charset="utf-8">
+	<title>Страница ошибки</title>
+	<meta name="viewport" content="width=device-width">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<link rel="stylesheet" href="/templates/404/style.css">
+	<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	    <!--[if lt IE 9]>
+        <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+    <![endif]-->
+</head>
+<body>
+<div class="comingcontainer">
+    <div class="checkbacksoon">
+		<p>
+			<span class="go3d">П</span>
+			<span class="go3d">и</span>
+			<span class="go3d">р</span>
+				<span class="go3d">а</span>
+					<span class="go3d">т</span>
+					<span class="go3d">!</span>
+			
+		</p>
+        </br>
+		</br>
+        <p class="error">
+		Пожалуйста приобретите лицензию !</p>
+
+</form>
+        <nav>
+            <ul>
+                <li><a href="http://vk.com/kudo070">Приобрести скрипт</a></li>
+       
+            </ul>	
+        </nav>
+    
+	</div>
+</div>
+
+
+</body></html>
+EOF;
+
+} 
+else {
+
+if (is_dir(dirname(__FILE__).'/install') == true)
+{
+	header('Location: /install');
+	exit;
+}
+/*
+ *---------------------------------------------------------------
+ * APPLICATION ENVIRONMENT
+ *---------------------------------------------------------------
+ *
+ * You can load different configurations depending on your
+ * current environment. Setting the environment also influences
+ * things like logging and error reporting.
+ *
+ * This can be set to anything, but default usage is:
+ *
+ *     development
+ *     testing
+ *     production
+ *
+ * NOTE: If you change these, also change the error_reporting() code below
+ *
+ */
+	define('ENVIRONMENT', 'development');
+/*
+ *---------------------------------------------------------------
+ * ERROR REPORTING
+ *---------------------------------------------------------------
+ *
+ * Different environments will require different levels of error reporting.
+ * By default development will show errors but testing and live will hide them.
+ */
+
+ date_default_timezone_set('Europe/Moscow'); // часовой пояс по Москве
+ 
+if (defined('ENVIRONMENT'))
+{
+	switch (ENVIRONMENT)
+	{
+		case 'development':
+			
+			error_reporting(E_ALL | E_STRICT);
+			ini_set('display_errors', 'On');
+		break;
+	
+		case 'testing':
+		case 'production':
+			error_reporting(0);
+		break;
+
+		default:
+			exit('The application environment is not set correctly.');
+	}
+}
+
+/*
+ *---------------------------------------------------------------
+ * SYSTEM FOLDER NAME
+ *---------------------------------------------------------------
+ *
+ * This variable must contain the name of your "system" folder.
+ * Include the path if the folder is not in the same  directory
+ * as this file.
+ *
+ */
+	$system_path = 'system';
+
+/*
+ *---------------------------------------------------------------
+ * APPLICATION FOLDER NAME
+ *---------------------------------------------------------------
+ *
+ * If you want this front controller to use a different "application"
+ * folder then the default one you can set its name here. The folder
+ * can also be renamed or relocated anywhere on your server.  If
+ * you do, use a full server path. For more info please see the user guide:
+ * http://codeigniter.com/user_guide/general/managing_apps.html
+ *
+ * NO TRAILING SLASH!
+ *
+ */
+	$application_folder = 'application';
+
+/*
+ * --------------------------------------------------------------------
+ * DEFAULT CONTROLLER
+ * --------------------------------------------------------------------
+ *
+ * Normally you will set your default controller in the routes.php file.
+ * You can, however, force a custom routing by hard-coding a
+ * specific controller class/function here.  For most applications, you
+ * WILL NOT set your routing here, but it's an option for those
+ * special instances where you might want to override the standard
+ * routing in a specific front controller that shares a common CI installation.
+ *
+ * IMPORTANT:  If you set the routing here, NO OTHER controller will be
+ * callable. In essence, this preference limits your application to ONE
+ * specific controller.  Leave the function name blank if you need
+ * to call functions dynamically via the URI.
+ *
+ * Un-comment the $routing array below to use this feature
+ *
+ */
+	// The directory name, relative to the "controllers" folder.  Leave blank
+	// if your controller is not in a sub-folder within the "controllers" folder
+	// $routing['directory'] = '';
+
+	// The controller class file name.  Example:  Mycontroller
+	// $routing['controller'] = '';
+
+	// The controller function you wish to be called.
+	// $routing['function']	= '';
+
+
+/*
+ * -------------------------------------------------------------------
+ *  CUSTOM CONFIG VALUES
+ * -------------------------------------------------------------------
+ *
+ * The $assign_to_config array below will be passed dynamically to the
+ * config class when initialized. This allows you to set custom config
+ * items or override any default config values found in the config.php file.
+ * This can be handy as it permits you to share one application between
+ * multiple front controller files, with each file containing different
+ * config values.
+ *
+ * Un-comment the $assign_to_config array below to use this feature
+ *
+ */
+	// $assign_to_config['name_of_config_item'] = 'value of config item';
+
+
+
+// --------------------------------------------------------------------
+// END OF USER CONFIGURABLE SETTINGS.  DO NOT EDIT BELOW THIS LINE
+// --------------------------------------------------------------------
+
+/*
+ * ---------------------------------------------------------------
+ *  Resolve the system path for increased reliability
+ * ---------------------------------------------------------------
+ */
+
+	// Set the current directory correctly for CLI requests
+	if (defined('STDIN'))
+	{
+		chdir(dirname(__FILE__));
+	}
+
+	if (realpath($system_path) !== FALSE)
+	{
+		$system_path = realpath($system_path).'/';
+	}
+
+	// ensure there's a trailing slash
+	$system_path = rtrim($system_path, '/').'/';
+
+	// Is the system path correct?
+	if ( ! is_dir($system_path))
+	{
+		exit("Your system folder path does not appear to be set correctly. Please open the following file and correct this: ".pathinfo(__FILE__, PATHINFO_BASENAME));
+	}
+
+/*
+ * -------------------------------------------------------------------
+ *  Now that we know the path, set the main path constants
+ * -------------------------------------------------------------------
+ */
+	// The name of THIS file
+	define('SELF', pathinfo(__FILE__, PATHINFO_BASENAME));
+
+	// The PHP file extension
+	// this global constant is deprecated.
+	define('EXT', '.php');
+
+	// Path to the system folder
+	define('BASEPATH', str_replace("\\", "/", $system_path));
+
+	// Path to the front controller (this file)
+	define('FCPATH', str_replace(SELF, '', __FILE__));
+
+	// Name of the "system folder"
+	define('SYSDIR', trim(strrchr(trim(BASEPATH, '/'), '/'), '/'));
+
+
+	// The path to the "application" folder
+	if (is_dir($application_folder))
+	{
+		define('APPPATH', $application_folder.'/');
+	}
+	else
+	{
+		if ( ! is_dir(BASEPATH.$application_folder.'/'))
+		{
+			exit("Your application folder path does not appear to be set correctly. Please open the following file and correct this: ".SELF);
+		}
+
+		define('APPPATH', BASEPATH.$application_folder.'/');
+	}
+
+/*
+ * --------------------------------------------------------------------
+ * LOAD THE BOOTSTRAP FILE
+ * --------------------------------------------------------------------
+ *
+ * And away we go...
+ *
+ */
+require_once BASEPATH.'core/CodeIgniter.php';
+
+/* End of file index.php */
+/* Location: ./index.php */
+
+}
